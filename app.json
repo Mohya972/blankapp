@@ -1,4 +1,7 @@
 {
   "name": "blankapp",
-  "slug": "blankapp"
+  "slug": "blankapp",
+  "plugins": [
+    "expo-router"
+  ]
 }
